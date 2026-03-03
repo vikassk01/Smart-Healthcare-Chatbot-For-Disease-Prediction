@@ -60,6 +60,5 @@ It analyzes user symptoms and provides preliminary disease guidance through a se
 This chatbot provides preliminary medical guidance only and does not replace professional medical consultation.
 ---
 
-
-Vikas SK  
-Java Full Stack Developer
+# output
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/04239a97-ef63-4025-8fc5-e08c5d16eae1" />
