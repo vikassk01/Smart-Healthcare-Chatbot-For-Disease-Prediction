@@ -67,4 +67,6 @@ This chatbot provides preliminary medical guidance only and does not replace pro
 
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/143f46bf-6782-4562-b363-68648144ec96" />
 
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/1d658a7c-dd9d-476e-aa20-d050f19ff9c0" />
+
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/946edf8f-a079-48cb-bb06-8ea2c0c6c67a" />
